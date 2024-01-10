@@ -1,0 +1,9 @@
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csprojAssemblyReference.cache
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csproj.CoreCompileInputs.cache
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csproj.CopyComplete
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\Users\luish\source\repos\Bdprojeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb
